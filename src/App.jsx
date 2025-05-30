@@ -38,7 +38,7 @@ function App() {
           </a>
         </p>
         <p>
-          @live Tech!!
+          @live Tech 2025!!
         </p>
         
       </header>
